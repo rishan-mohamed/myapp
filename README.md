@@ -1,7 +1,3 @@
-Here's a complete `README.md` file that combines all the necessary sections, explaining how to set up, use, and contribute to your project. This document should be placed in the root of your Flutter project to provide other developers or users with a clear guide on how to interact with your project.
-
----
-
 # Currency Exchange App
 
 This Flutter application displays real-time currency exchange rates and allows users to manage their preferred currencies. The app uses the BLoC architecture for state management and interacts with a currency API to fetch exchange rates.

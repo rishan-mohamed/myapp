@@ -215,8 +215,6 @@ If you have any questions or need further assistance, feel free to reach out to:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Rishan  - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to modify this `README.md` to reflect any additional details specific to your project.
